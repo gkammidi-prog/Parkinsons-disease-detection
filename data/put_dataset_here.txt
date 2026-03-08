@@ -1,0 +1,11 @@
+This folder contains the dataset for 
+Parkinson's Disease Detection project.
+
+Dataset Details:
+- Name: Parkinson's Disease Dataset
+- Source: UCI Machine Learning Repository
+- File: parkinsons.csv
+- Features: 23 voice measurement features
+- Target: status column (1=Parkinsons, 0=Healthy)
+
+Status: parkinsons.csv added successfully ✅
