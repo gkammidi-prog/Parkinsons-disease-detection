@@ -1,0 +1,10 @@
+MDVP:APQ
+NHR
+MDVP:Fhi(Hz)
+MDVP:Jitter(Abs)
+MDVP:Flo(Hz)
+spread2
+RPDE
+spread1
+MDVP:Fo(Hz)
+PPE
